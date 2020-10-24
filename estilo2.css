@@ -1,0 +1,35 @@
+/* CSS Document */
+
+BODY { FONT-SIZE: 10px; FONT-FAMILY: Verdana; SCROLLBAR-BASE-COLOR: #006633} .Top { WIDTH: 780px; POSITION: relative; 
+HEIGHT: 50px; BACKGROUND-COLOR: #ff7f00; TEXT-ALIGN: left } .ServicesNavigation 
+{ LEFT: 154px; WIDTH: 622px; POSITION: absolute; TOP: 14px; HEIGHT: 20px } A { 
+COLOR: #000000; TEXT-DECORATION: none } A:hover { TEXT-DECORATION: underline blink 
+; color: #FFFFFF} A.TopLnkAccesos { FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: 
+#ffffff; FONT-FAMILY: verdana } .LeftNavTitulo { PADDING-LEFT: 3px; FONT-WEIGHT: 
+bold; FONT-SIZE: 10px; FLOAT: right; TEXT-TRANSFORM: uppercase; WIDTH: 127px; 
+COLOR: #ffffff; PADDING-TOP: 1px; FONT-FAMILY: verdana; HEIGHT: 16px; BACKGROUND-COLOR: 
+#494965 } A.NavLeftLnk { BORDER-RIGHT: #d83c01 1px solid; PADDING-RIGHT: 0px; 
+BORDER-TOP: #d83c01 0px solid; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 
+10px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #d83c01 1px 
+solid; WIDTH: 127px; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #d83c01 
+1px solid; FONT-FAMILY: verdana; HEIGHT: 16px; BACKGROUND-COLOR: #ff7f00; TEXT-ALIGN: 
+left; TEXT-DECORATION: none } A.NavLeftLnk:hover { BORDER-RIGHT: #d83c01 1px solid; 
+PADDING-RIGHT: 0px; BORDER-TOP: #d83c01 0px solid; PADDING-LEFT: 4px; FONT-WEIGHT: 
+bold; FONT-SIZE: 10px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 
+#d83c01 1px solid; WIDTH: 127px; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: 
+#d83c01 1px solid; FONT-FAMILY: verdana; HEIGHT: 16px; BACKGROUND-COLOR: #fa7001; 
+TEXT-ALIGN: left; TEXT-DECORATION: none } .Navigation { BACKGROUND-POSITION: left 
+bottom; LEFT: 3px; BACKGROUND-IMAGE: url("back_nav.gif"/*tpa=http://www.grupo-ormeno.com.pe/back_nav.gif*/); WIDTH: 138px; BACKGROUND-REPEAT: 
+no-repeat; POSITION: absolute; TOP: 14px; HEIGHT: 830px } .Pie { PADDING-RIGHT: 
+0px; PADDING-LEFT: 0px; LEFT: 154px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 
+626px; PADDING-TOP: 0px; POSITION: absolute; TOP: 932px; BACKGROUND-COLOR: #ffffff 
+; font-family: Tahoma; font-size: 10px; color: #999999 } .TxtBold { FONT-WEIGHT: 
+bold; COLOR: #000000 } A.LnkBcv { FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: 
+arial } .Prime { FLOAT: right; WIDTH: 146px; BACKGROUND-COLOR: #adf5f5; TEXT-ALIGN: 
+right } .text { font-family: Verdana; font-size: 10px; color: #2B551C} .text1 
+{ font-family: Verdana; font-size: 9px; color: #999999; font-weight: normal; font-style: 
+normal; font-variant: normal; line-height: normal; text-transform: none} .body1 
+{ background-color: #FFFFFF} .text2 { font-family: Verdana; font-size: 9px; color: 
+#FFFFFF; font-weight: normal; font-style: normal; font-variant: normal; line-height: 
+normal; text-transform: none } .text3 { font-family: Verdana; font-size: 10px; 
+color: #FFFFFF} .text4 {  font-family: Verdana; font-size: 9px; color: #006600}
